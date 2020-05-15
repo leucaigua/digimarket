@@ -1,0 +1,165 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">ae_global_templates</custom-type>
+    <custom-type translate="1">elementor_library</custom-type>
+    <custom-type translate="1">scheduled-action</custom-type>
+    <custom-type translate="1">acf-field-group</custom-type>
+    <custom-type translate="1">acf-field</custom-type>
+    <custom-type translate="1">product</custom-type>
+    <custom-type translate="1">product_variation</custom-type>
+    <custom-type translate="1">shop_order</custom-type>
+    <custom-type translate="1">shop_order_refund</custom-type>
+    <custom-type translate="1">shop_coupon</custom-type>
+    <custom-type translate="1">wpcf7_contact_form</custom-type>
+    <custom-type translate="1">testimonial</custom-type>
+    <custom-type translate="1">team</custom-type>
+    <custom-type translate="1">portfolio</custom-type>
+    <custom-type translate="1">client</custom-type>
+    <custom-type translate="1">mega_menu</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">elementor_library_type</taxonomy>
+    <taxonomy translate="1">elementor_library_category</taxonomy>
+    <taxonomy translate="1">action-group</taxonomy>
+    <taxonomy translate="1">product_type</taxonomy>
+    <taxonomy translate="1">product_visibility</taxonomy>
+    <taxonomy translate="1">product_cat</taxonomy>
+    <taxonomy translate="1">product_tag</taxonomy>
+    <taxonomy translate="1">product_shipping_class</taxonomy>
+    <taxonomy translate="1">translation_priority</taxonomy>
+    <taxonomy translate="1">testimonial-category</taxonomy>
+    <taxonomy translate="1">profession</taxonomy>
+    <taxonomy translate="1">portfolio-category</taxonomy>
+    <taxonomy translate="1">client-category</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="translate">banner_title</custom-field>
+    <custom-field action="translate">banner_subtitle</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="ryse_theme_option">
+      <key name="favicon">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_one_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_one_retina_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_two_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_two_retina_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_three_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_three_retina_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_three_copyright_text"/>
+      <key name="header_four_branding_icon">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_four_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_four_retina_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_five_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_five_retina_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_six_sticky_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_six_b_logo">
+        <key name="title"/>
+        <key name="caption"/>
+        <key name="alt"/>
+        <key name="description"/>
+      </key>
+      <key name="header_nine_phonenumber_text"/>
+      <key name="header_nine_email_text"/>
+      <key name="header_ten_header_top_address"/>
+      <key name="header_ten_header_top_email"/>
+      <key name="header_ten_header_top_phone"/>
+      <key name="header_ten_button_one_text"/>
+      <key name="header_eleven_header_top_note"/>
+      <key name="header_eleven_button_one_text"/>
+      <key name="header_eleven_button_two_text"/>
+      <key name="header_eleven_header_top_address"/>
+      <key name="header_eleven_header_top_phone"/>
+      <key name="header_eleven_header_top_email"/>
+      <key name="header_twelve_header_top_address"/>
+      <key name="header_twelve_header_top_email"/>
+      <key name="header_twelve_header_top_phone"/>
+      <key name="header_thirteen_header_top_phone"/>
+      <key name="header_thirteen_header_top_email"/>
+      <key name="header_thirteen_header_top_timing"/>
+      <key name="header_thirteen_button_one_text"/>
+      <key name="header_fifteen_header_top_note"/>
+      <key name="header_fifteen_button_one_text"/>
+      <key name="header_fifteen_button_two_text"/>
+      <key name="footer_one_copyright_text"/>
+      <key name="404_error_one_content"/>
+      <key name="404_error_one_button_text"/>
+      <key name="404_error_two_content"/>
+      <key name="404_error_two_button_text"/>
+      <key name="404_error_three_content"/>
+      <key name="404_error_three_button_text"/>
+      <key name="404_error_four_content"/>
+      <key name="404_error_four_button_text"/>
+      <key name="maintenance_mode_one_content"/>
+      <key name="maintenance_mode_two_content"/>
+      <key name="maintenance_mode_three_content"/>
+      <key name="coming_soon_one_content"/>
+      <key name="coming_soon_two_content"/>
+      <key name="coming_soon_three_content"/>
+    </key>
+  </admin-texts>
+</wpml-config>

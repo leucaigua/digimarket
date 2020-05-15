@@ -1,0 +1,104 @@
+
+.radiantthemes-website-layout.boxed{
+	max-width: 1200px ;
+}
+
+@media (min-width: 1200px){
+
+	.radiantthemes-website-layout.boxed .container{
+	    width: calc( 1200px - 30px) ;
+	}
+
+	.radiantthemes-website-layout.boxed .container.page-container{
+	    width: 1200px ;
+	}
+
+}
+
+.radiantthemes-website-layout.boxed .container-fluid{
+	max-width: calc( 1200px - 30px) ;
+}
+
+
+
+.wraper_header .wraper_header_main .header_main .brand-logo img, .wraper_header .wraper_header_main .header_main .brand-logo-sticky img{
+	max-width: 200px !important;
+	height: auto;
+}
+.wraper_header .wraper_header_main .nav, .wraper_header .wraper_header_main .header-hamburger-menu {
+	margin: 7px 0px 0px 0px !important;
+}
+
+
+@media screen and (min-width:992px) and (max-width:3920px) {
+
+ .wraper_header .wraper_header_main .header_main_action{
+	margin: 7px 0px 0px 0px !important;
+}
+}
+
+
+
+body[data-header-style="header-style-three"] .wraper_header_main .header_main .brand-logo img {
+	max-width: 200px !important;
+}
+body[data-header-style="header-style-four"] .wraper_header_main .header_main .brand-logo img {
+	max-width: 200px !important;
+}
+
+
+body[data-header-style="header-style-three"] .wraper_header_main {
+	width: 270px !important;
+}
+
+
+
+body[data-header-style='header-style-one'] #hamburger-menu{
+	max-width: 550px ;
+}
+
+body[data-header-style='header-style-one'] #hamburger-menu.right{
+	right: -550px ;
+}
+
+
+body[data-header-style='header-style-two'] #hamburger-menu{
+	max-width: 550px ;
+}
+
+body[data-header-style='header-style-two'] #hamburger-menu.right{
+	right: -550px ;
+}
+
+
+body[data-header-style='header-style-six'] #hamburger-menu{
+	max-width: 550px ;
+}
+
+body[data-header-style='header-style-six'] #hamburger-menu.right{
+	right: -550px ;
+}
+
+
+body[data-header-style='header-style-sixteen'] #hamburger-menu{
+	max-width: 550px ;
+}
+
+body[data-header-style='header-style-sixteen'] #hamburger-menu.right{
+	right: -550px ;
+}
+
+
+.wraper_inner_banner_main .inner_banner_main{
+	text-align: left ;
+}
+
+.wraper_inner_banner_breadcrumb .inner_banner_breadcrumb{
+	text-align: left ;
+}
+
+
+
+
+
+
