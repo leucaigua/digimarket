@@ -15705,7 +15705,7 @@ body.page .comments-area {
 }
 
 .radiantthemes-shop.three-column>.radiantthemes-shop-box {
-    width: 33.33%;
+    width: 25%;
 }
 
 .radiantthemes-shop.four-column>.radiantthemes-shop-box {
@@ -15805,7 +15805,7 @@ body.page .comments-area {
     width: 100%;
     float: left;
     padding: 8px 10px 9px 10px;
-    background-color: #353434;
+    background-color: #79d3f1;
     border-radius: 0;
     text-transform: uppercase;
     font-weight: 600;
@@ -15830,8 +15830,9 @@ body.page .comments-area {
 .radiantthemes-shop-box.style-one>.holder>.data .woocommerce-loop-product__title {
     margin-bottom: 0;
     font-weight: 600;
-    font-size: 16px;
-    color: #232222;
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #555555;
     line-height: 25px;
     letter-spacing: initial;
 }
@@ -16750,10 +16751,11 @@ body.page .comments-area {
 
 .radiantthemes-shop-box.style-six>.holder>.data .woocommerce-loop-product__title {
     margin-bottom: 0;
-    font-weight: 700;
-    font-size: 16px;
-    color: #1e1666;
-    line-height: 28px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 15px;
+    color: #555555;
+    line-height: 20px;
     letter-spacing: initial;
 }
 
@@ -16829,9 +16831,10 @@ body.page .comments-area {
 }
 
 .shop_single>.summary .product_title {
-    color: #1e1666;
+    color: #555555;
+    text-transform: uppercase;
     margin-bottom: 12px;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 35px;
 }
 
@@ -16846,7 +16849,7 @@ body.page .comments-area {
 .shop_single>.summary .price, .shop_single>.summary .woocommerce-variation-price {
     margin-bottom: 20px;
     font-size: 25px !important;
-    color: #1e1666 !important;
+    color: #79d3f1 !important;
     line-height: 30px;
 }
 
@@ -17269,11 +17272,12 @@ body.page .comments-area {
 }
 
 .shop_related>.related.products>h2 {
-    color: #1e1666;
+    color: #555555;
+    text-transform: uppercase;
     margin-bottom: 20px;
     font-weight: 600;
-    font-size: 28px;
-    line-height: 35px;
+    font-size: 25px;
+    line-height: 30px;
 }
 
 /*--------------------------------------------------------------
@@ -19930,9 +19934,9 @@ Box Grid
 }
 
 h1.entry-title {
-    line-height: 45px !important;
-    font-weight: 700 !important;
-    font-size: 35px !important;
+    line-height: 35px !important;
+    font-weight: 600 !important;
+    font-size: 30px !important;
 }
 
 .site-content {
